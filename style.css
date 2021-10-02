@@ -1,0 +1,48 @@
+    
+    
+    body{
+        margin: 0em;
+    }
+     
+.header{
+    background-color: #ffff00;
+    margin-bottom: 0rem;
+}
+
+.header-para{
+    text-align: right;
+}
+
+.header-link{
+    text-decoration: none;
+    text-align: right;
+    margin:auto;
+    display:block;
+
+
+}
+
+
+#btn-translate{
+    background-color: yellow;
+    color:black;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem;
+    font-size: x-large;
+    display: block;
+    align-self: center;
+    margin:auto;
+}
+textarea{
+    background-color: black;
+    color:yellow;
+    padding: 1rem 1rem;
+    border-radius: 1rem 1rem;
+    margin:auto;
+    height: 8rem;
+    width:91%;
+    align-self: center;
+    display: block;
+    margin-bottom: 10rem;
+}
+
