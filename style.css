@@ -46,7 +46,7 @@
        border: 5px solid black;
    }
 
-   textarea {
+   #txt-input {
        background-color: transparent;
        color: var(--primary-color);
        padding: 1rem 1rem;
